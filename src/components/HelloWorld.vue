@@ -35,7 +35,7 @@
           </div>
           <div class="col-md-3" id="description1">
               <h5>
-                Hello there! My name is Lance Javate. I am a college student from <a class="text-white fw-bold text-decoration-none" href="https://www.facebook.com/cpcofficial2005"> Cordova Public College </a> that pursues computer studies.
+                Hello there! My name is Lance Javate. I am a college student from <a class="text-dark fw-bold text-decoration-none" href="https://www.facebook.com/cpcofficial2005"> Cordova Public College </a> that pursues computer studies.
               </h5>
           </div>
           <div class="col-md-6 position-relative">
