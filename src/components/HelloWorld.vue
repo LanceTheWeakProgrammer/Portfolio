@@ -55,28 +55,28 @@
 
         <div class="container">
             <div class="row justify-content-evenly px-lg-0 px-md-3 px-5">
-                <div class="col-lg-2 col-md-4 text-center py-4 my-3 mx-4">
+                <div class="col-lg-3 col-md-4 text-center py-4 my-3">
                   <img src="laravel.png" width="80px" title="Laravel" class="zoom-in-effect" data-bs-toggle="tooltip" data-bs-placement="top">
                 </div>
-                <div class="col-lg-2 col-md-4 text-center py-4 my-3 mx-4">
+                <div class="col-lg-3 col-md-4 text-center py-4 my-3">
                     <img src="bootstrap.png" width="80px" title="Bootstrap" class="zoom-in-effect">
                 </div>
-                <div class="col-lg-2 col-md-4 text-center py-4 my-3 mx-4">
+                <div class="col-lg-3 col-md-4 text-center py-4 my-3">
                     <img src="css.png" width="80px" title="CSS" class="zoom-in-effect">
                 </div>
-                <div class="col-lg-2 col-md-4 text-center py-4 my-3 mx-4">
+                <div class="col-lg-3 col-md-4 text-center py-4 my-3">
                     <img src="js.png" width="80px" title="JavaScript" class="zoom-in-effect">
                 </div>
-                <div class="col-lg-2 col-md-4 text-center py-4 my-3 mx-4">
+                <div class="col-lg-3 col-md-4 text-center py-4 my-3">
                     <img src="php.png" width="140px" title="PHP" class="zoom-in-effect">
                 </div>
-                <div class="col-lg-2 col-md-4 text-center py-4 my-3 mx-4">
+                <div class="col-lg-3 col-md-4 text-center py-4 my-3">
                     <img src="sql.png" width="130px" title="SQL" class="zoom-in-effect">
                 </div>
-                <div class="col-lg-2 col-md-4 text-center py-4 my-3 mx-4">
+                <div class="col-lg-3 col-md-4 text-center py-4 my-3">
                     <img src="html.png" width="80px" title="HTML" class="zoom-in-effect">
                 </div>
-                <div class="col-lg-2 col-md-4 text-center py-4 my-3 mx-4">
+                <div class="col-lg-3 col-md-4 text-center py-4 my-3">
                     <img src="vue.png" width="100px" title="Vue.js" class="zoom-in-effect">
                 </div>
             </div>
@@ -145,37 +145,37 @@
 
         <div class="container">
             <div class="row justify-content-evenly px-lg-0 px-md-3 px-5">
-                <div class="col-lg-2 col-md-4 text-center py-4 my-3 mx-3">
+                <div class="col-lg-2 col-md-4 text-center py-4 my-3">
                     <a href="https://twitter.com/lanceeee_7">
                       <img src="x.png" width="80px" title="X/Twitter" class="zoom-in-effect">
                     </a>
                 </div>
-                <div class="col-lg-2 col-md-4 text-center py-4 my-3 mx-4">
+                <div class="col-lg-2 col-md-4 text-center py-4 my-3">
                 <a href="https://github.com/LanceTheWeakProgrammer">
                   <img src="github.png" width="80px" title="Github" class="zoom-in-effect">
                 </a>
                 </div>
-                <div class="col-lg-2 col-md-4 text-center py-4 my-3 mx-3">
+                <div class="col-lg-2 col-md-4 text-center py-4 my-3">
                   <a href="https://www.facebook.com/profile.php?id=100089900131835">
                     <img src="fb.png" width="80px" title="Facebook" class="zoom-in-effect">
                   </a>  
                 </div>
-                <div class="col-lg-2 col-md-4 text-center py-4 my-3 mx-3">
+                <div class="col-lg-2 col-md-4 text-center py-4 my-3">
                   <a href="https://www.instagram.com/lansyoooo/">
                     <img src="ig.png" width="80px" title="Instagram" class="zoom-in-effect">
                   </a>  
                 </div>
-                <div class="col-lg-2 col-md-4 text-center py-4 my-3 mx-3">
+                <div class="col-lg-2 col-md-4 text-center py-4 my-3">
                   <a href="https://www.reddit.com/user/gravityissue/">
                     <img src="reddit.png" width="80px" title="Reddit" class="zoom-in-effect">
                   </a>  
                 </div>
-                <div class="col-lg-4 col-md-4 text-center py-4 my-3 mx-3">
+                <div class="col-lg-4 col-md-4 text-center py-4 my-3">
                   <a href="mailto:lancejavate2002@gmail.com" class="text-dark text-decoration-none">
                     <h5 class="zoom-in-effect fw-bold"><i class="fas fa-envelope"></i> Email: lancejavate2002@gmail.com</h5>
                   </a>  
                 </div>
-                <div class="col-lg-4 col-md-4 text-center py-4 my-3 mx-3">
+                <div class="col-lg-4 col-md-4 text-center py-4 my-3">
                   <h5 class="zoom-in-effect fw-bold"><i class="fas fa-phone"></i> Contact Number: +639662554423</h5>
                 </div>
             </div>
