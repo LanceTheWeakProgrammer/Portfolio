@@ -91,7 +91,7 @@
             <div class="col-lg-6 offset-lg-0 col-md-8 offset-md-2 p-4">
                 <div class="card border-0 round shadow" style="width: 100%; height: 100%;">
                     <div style="height: 300px; overflow: hidden;" class="border-4 round">
-                        <img src="https://scontent.fceb2-2.fna.fbcdn.net/v/t39.30808-6/434261221_374586668881335_8014069547964949419_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGRP5-VMZ4VX6MpTPtf9rwvRrYC0vkXXXdGtgLS-RdddxxWXSz3I4WYdPWRFmxwQFhCME-bBkwa2FaRSOJbYwNm&_nc_ohc=fV_LEK5ZJP4AX_UcZ-4&_nc_ht=scontent.fceb2-2.fna&oh=00_AfA5cDJoVlLse4scryl2onD_ydmkba-lXoHz31K7Lmj6Kw&oe=66095717" class="img-fluid" alt="Image" style="width: 100%; height: 400px; object-fit: cover;">
+                        <img src="p-1.jpg" class="img-fluid" alt="Image" style="width: 100%; height: 400px; object-fit: cover;">
                     </div>
                     <div class="card-body">
                         <a href="https://github.com/LanceTheWeakProgrammer/Calculator" class="text-dark text-decoration-none">
@@ -103,7 +103,7 @@
             <div class="col-lg-6 offset-lg-0 col-md-8 offset-md-2 p-4">
                 <div class="card border-0 round shadow" style="width: 100%; height: 100%;">
                     <div style="height: 300px; overflow: hidden;" class="border-4 round">
-                        <img src="https://scontent.fmnl25-3.fna.fbcdn.net/v/t39.30808-6/434139527_374587565547912_3114569687569442916_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFgGS80V02dgjQcVmbpNx6HXEkt2stBkpdcSS3ay0GSl1igDHziBhdnnKBNzG-xiu3Pm_yPi8inJFXIBH1p6MIa&_nc_ohc=yrDkuaIrjx0AX-Wtjf7&_nc_ht=scontent.fmnl25-3.fna&oh=00_AfBH_rFaW7n54_U6WBJaE7Cm6uZdSayb5Qn5x-p9kugFwA&oe=6608E65A" class="img-fluid" alt="Image" style="width: 100%; height: 400px; object-fit: cover;">
+                        <img src="p-2.jpg" class="img-fluid" alt="Image" style="width: 100%; height: 400px; object-fit: cover;">
                     </div>
                     <div class="card-body">
                       <a href="https://github.com/LanceTheWeakProgrammer/Booking" class="text-dark text-decoration-none">
@@ -115,7 +115,7 @@
             <div class="col-lg-6 offset-lg-0 col-md-8 offset-md-2 p-4">
                 <div class="card border-0 round shadow" style="width: 100%; height: 100%;">
                     <div style="height: 300px; overflow: hidden;" class="border-4 round">
-                        <img src="https://scontent.fceb6-1.fna.fbcdn.net/v/t39.30808-6/434359358_374587788881223_5329172037818751384_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHeEBQwb8SV2DiYPg45K1kiuPqj-6P8gAW4-qP7o_yABb6606_LTG0cB1hSEo80_kixHoNXBM125mAzMmrSzkF1&_nc_ohc=u1E4pTmVPw4AX8gAavu&_nc_ht=scontent.fceb6-1.fna&oh=00_AfDJKan6M_lTk82_mXiTxIUJFbrrVvjWpPjmwiCi1AxXNg&oe=6607B650" class="img-fluid" alt="Image" style="width: 100%; height: 400px; object-fit: cover;">
+                        <img src="p-3.jpg" class="img-fluid" alt="Image" style="width: 100%; height: 400px; object-fit: cover;">
                     </div>
                     <div class="card-body">
                       <a href="https://github.com/LanceTheWeakProgrammer/Pokemon" class="text-decoration-none text-dark">
@@ -127,7 +127,7 @@
             <div class="col-lg-6 offset-lg-0 col-md-8 offset-md-2 p-4">
                 <div class="card border-0 round shadow" style="width: 100%; height: 100%;">
                     <div style="height: 300px; overflow: hidden;" class="border-4 round">
-                        <img src="https://scontent.fmnl25-4.fna.fbcdn.net/v/t39.30808-6/434359467_374589762214359_4963283663627951733_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEtwREAcGME7XbnBuCpULtBJFhr-phFdKQkWGv6mEV0pFGQu9BR-GHzDYavh3F4nq2fiuagx5EjNCWQe7_tsKBQ&_nc_ohc=_Vf0-6da9VYAX_rYvyQ&_nc_ht=scontent.fmnl25-4.fna&oh=00_AfDn3sNXKVXnph0vH_Ya4_SQWvigA5ZiitmXogUolJEYMA&oe=6608443B" class="img-fluid" alt="Image" style="width: 100%; height: 400px; object-fit: cover;">
+                        <img src="p-4.jpg" class="img-fluid" alt="Image" style="width: 100%; height: 400px; object-fit: cover;">
                     </div>
                     <div class="card-body">
                       <a href="https://github.com/LanceTheWeakProgrammer/Library" class="text-dark text-decoration-none">
